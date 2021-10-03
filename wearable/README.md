@@ -16,13 +16,15 @@ A fully equipped research lab donated by “Cambio Software Engineering, Sri Lan
 This page contains the supplementary material to,
 - [http://www.ce.pdn.ac.lk/research/wearable-computing/](http://www.ce.pdn.ac.lk/research/wearable-computing/),
 - [http://www.ce.pdn.ac.lk/facilities/cambio-wearable-computing-lab/](http://www.ce.pdn.ac.lk/facilities/cambio-wearable-computing-lab/)
--[http://www.ce.pdn.ac.lk/projects/](http://www.ce.pdn.ac.lk/projects/) > Wearable Computing.
+- [http://www.ce.pdn.ac.lk/projects/](http://www.ce.pdn.ac.lk/projects/) > Wearable Computing.
 
 
+Other:
 - [Introduction](./cambio-lab-intro.pdf),
 - [Facebook page](https://www.facebook.com/CambioWearableComputing/)
 
-You can contribute to improving this page by editing [https://github.com/cepdnaclk/cepdnaclk.github.io/tree/master/sites/labs/wearable](https://github.com/cepdnaclk/escal/wearable) and sending a pull request.
+You can contribute to improving this page by editing [https://github.com/cepdnaclk/escal/edit/main/wearable/README.md](https://github.com/cepdnaclk/escal/edit/main/wearable/README.md) and sending a pull request.
+
 
 ## Our Team
 
@@ -68,6 +70,7 @@ You can contribute to improving this page by editing [https://github.com/cepdnac
 
 
 ## Alumni
+
 * Theekshana Dissanayake (Undergraduate thesis student, graduate researcher) : now at Queensland University of Technology. [[Linkedin](https://www.linkedin.com/in/thekzn), [Researchgate](https://www.researchgate.net/profile/Theekshana_Dissanayake)]
 * Yasitha Rajapaksha (Undergraduate thesis student) : now at XXXX. [[LinkedIn](https://www.linkedin.com/in/yasitha-rajapaksha/), [Researchgate](https://www.researchgate.net/profile/Yasitha_Rajapaksha)]
 * Titus Nanda Kumara (Undergraduate thesis student, graduate researcher) : now at Western Sydney University. [[Researchgate](https://www.researchgate.net/profile/Titus_Nanda_Kumara), [Google scholar](https://scholar.google.com/citations?user=9BrdpSYAAAAJ&hl=nl),[Email](mailto:titus.nandakumara@gmail.com)]
@@ -75,8 +78,8 @@ You can contribute to improving this page by editing [https://github.com/cepdnac
 * Amila Ukwaththage (Undergraduate thesis student)
 * Asanka Kumara (Undergraduate thesis student)
 * Thushani Kallamullage (Undergraduate thesis student)
-* Ching Tien Shi (Undergraduate thesis student) : now at wso2
-* Vimukthi Perera (Undergraduate thesis student) : now at wso2
+* Ching Tien Shi (Undergraduate thesis student) : now at WSO2
+* Vimukthi Perera (Undergraduate thesis student) : now at WSO2
 * Sanjeeva Kumara (Undergraduate thesis student)
 * Chamini Perera (Undergraduate thesis student)
 * Sasitha Rajapaksha (Undergraduate thesis student)
