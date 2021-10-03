@@ -1,9 +1,15 @@
+---
+title: Cambio Wearable Computing Lab
+layout: page
+permalink: /wearable
+---
+
 # Cambio Wearable Computing Lab
 
-![](img/i.jpg)
-![](img/i.2pg)
-![](img/i.3pg)
-![](img/i.4pg)
+![](img/1.jpg)
+![](img/2.jpg)
+![](img/3.jpg)
+![](img/4.jpg)
 
 A fully equipped research lab donated by “Cambio Software Engineering, Sri Lanka”. The focus of this facility is to conduct research related to biomedical engineering. The lab consists of cutting edge equipment such as,
 - AMD FirePro W9100
