@@ -1,10 +1,28 @@
 # Cambio Wearable Computing Lab
 
-This page contains the supplementary material to [http://www.ce.pdn.ac.lk/research/wearable-computing/](http://www.ce.pdn.ac.lk/research/wearable-computing/), [http://www.ce.pdn.ac.lk/facilities/cambio-wearable-computing-lab/](http://www.ce.pdn.ac.lk/facilities/cambio-wearable-computing-lab/) and [http://www.ce.pdn.ac.lk/projects/](http://www.ce.pdn.ac.lk/projects/) > Wearable Computing.
+![](/img/i.jpg)
+![](/img/i.2pg)
+![](/img/i.3pg)
+![](/img/i.4pg)
 
-[Introduction](./cambio-lab-intro.pdf), [Facebook page](https://www.facebook.com/CambioWearableComputing/)
+A fully equipped research lab donated by “Cambio Software Engineering, Sri Lanka”. The focus of this facility is to conduct research related to biomedical engineering. The lab consists of cutting edge equipment such as,
+- AMD FirePro W9100
+- OpenBCI boards
+- Muscle Spikerbox and Spikershield
+- Heart and Brain Spikershield bundle
+- Lynxmotion AL5D robot arm x3
 
-You can contribute to improving this page by editing [https://github.com/cepdnaclk/cepdnaclk.github.io/tree/master/sites/labs/wearable](https://github.com/cepdnaclk/cepdnaclk.github.io/tree/master/sites/labs/wearable) and sending a pull request.
+
+This page contains the supplementary material to,
+- [http://www.ce.pdn.ac.lk/research/wearable-computing/](http://www.ce.pdn.ac.lk/research/wearable-computing/),
+- [http://www.ce.pdn.ac.lk/facilities/cambio-wearable-computing-lab/](http://www.ce.pdn.ac.lk/facilities/cambio-wearable-computing-lab/)
+-[http://www.ce.pdn.ac.lk/projects/](http://www.ce.pdn.ac.lk/projects/) > Wearable Computing.
+
+
+- [Introduction](./cambio-lab-intro.pdf),
+- [Facebook page](https://www.facebook.com/CambioWearableComputing/)
+
+You can contribute to improving this page by editing [https://github.com/cepdnaclk/cepdnaclk.github.io/tree/master/sites/labs/wearable](https://github.com/cepdnaclk/escal/wearable) and sending a pull request.
 
 ## Our Team
 
@@ -26,10 +44,10 @@ You can contribute to improving this page by editing [https://github.com/cepdnac
     * Hybrid Dynamic Difficulty Adjustment for Computer Games (E13)
         * T Dissanayake, Y Rajapaksha, R Ragel, I Nawinne
         * [[Web](http://www.ce.pdn.ac.lk/project/neuro-fuzzy-dynamic-difficulty-adjustment-for-computer-games/),[Add link to thesis here](/)]
-    * Reinforcement Learning for Dynamic Difficulty Adjustment in FPS Games (E14) 
+    * Reinforcement Learning for Dynamic Difficulty Adjustment in FPS Games (E14)
         * Mabeesha Wijekoon, Rahal Medawatta, Dhinuka Chathuranga, Isuru Nawinne, Roshan Ragel
         * [Add link to thesis here](/)
-    
+
 * ECG Based emotion detection
     * Emotion based safety measures for drivers (E12)
         * Ching Tien Shi. Vimukthi Perera, Brian Udugama, Titus Nanda Kumara, Isuru Nawinne, Roshan Ragel.
@@ -37,12 +55,12 @@ You can contribute to improving this page by editing [https://github.com/cepdnac
     * An Optimal Set of Features for ECG based Human Emotion Recognition (E13)
         * T Dissanayake, Y Rajapaksha, R Ragel, I Nawinne.
         * [Add link to thesis here](/)
-    
+
 * EEG and EMG
     * Realtime Movements in Human Controlled Robots (E12)
         * Amila Ukwaththage, Asanka Kumara, Thushani Kallamullage, Titus Nanda Kumara, Isuru Nawinne, Roshan Ragel.
         * [Add link to thesis here](/)
-    
+
 
 ## Publications
 
