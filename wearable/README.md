@@ -1,7 +1,7 @@
 ---
 title: Cambio Wearable Computing Lab
 layout: page
-permalink: /wearable
+permalink: /wearable/
 ---
 
 <!-- Cambio Wearable Computing Lab -->
