@@ -9,16 +9,16 @@ permalink: /wearable/
 <div class="container">
     <div class="row">
         <div class="col-3">
-            <img class="img-fluid" src="img/1.jpg">
+            <img class="img-fluid" src="./img/1.jpg">
         </div>
         <div class="col-3">
-            <img class="img-fluid" src="img/2.jpg">
+            <img class="img-fluid" src="./img/2.jpg">
         </div>
         <div class="col-3">
-            <img class="img-fluid" src="img/3.jpg">
+            <img class="img-fluid" src="./img/3.jpg">
         </div>
         <div class="col-3">
-            <img class="img-fluid" src="img/4.jpg">
+            <img class="img-fluid" src="./img/4.jpg">
         </div>
     </div>
 </div>
